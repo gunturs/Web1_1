@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# PEMROGRAMAN WEBSITE 1
+
+Mata kuliah ini merupakan mata kuliah lanjutan dari mata kuliah Design Web yang sudah dipelajari pada Semester sebelumnya, dimana untuk mendesain halaman web digunakan bahasa program HTML (Hypertext Markup Language) dan untuk memanipulasinya digunakan bahasa program CSS (Casecading Style Sheet).
+Ada dua jenis web, yaitu: Static dan Dynamis dimana Web Dynamis memiliki sifat dapat berubah sewaktu-waktu dan dapat memberikan feedback dengan pengguna, sementara Static bersifat mutlak dan tidak ada feedback ke pengguna. HTML dan CSS merupakan bahasa program yang menghasilkan halaman web yang bersifat Static.
+
+## Perograman Server Client
+
+
+
 
 You can use the [editor on GitHub](https://github.com/gunturs/Web1_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
