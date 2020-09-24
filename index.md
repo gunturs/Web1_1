@@ -5,6 +5,7 @@ Ada dua jenis web, yaitu: Static dan Dynamis dimana Web Dynamis memiliki sifat d
 
 ## Perograman Server Client
 
+Setiap bahasa program akan menjalani proses penterjemahan yang disebut dengan Compiler sehingga dapat di eksekusi oleh komputer dan hasilnya dapat membantu pekerjaan manusia. Untuk membuat web akan ditemui 2 jenis bahasa program yaitu barbasis Server dan Client. Hal ini dapat dibedakan dari posisi penterjemahan program itu sendiri, bila program diterjemahkan pada Komputer Server maka berbasis Server dan bila diterjemahkan pada Komputer Client maka berbasis Client 
 
 
 
