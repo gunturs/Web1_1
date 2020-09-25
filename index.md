@@ -20,5 +20,6 @@ Untuk menjalankan bahasa program berbasis server dibutuhkan aplikasi pendukung y
 1. Xampp
 2. PHP Thriad
 3. Apache Serve
+
 Dalam materi kita akan menggunakan Xammp yang aplikasinya dapat diunduh dalam link berikut https://www.apachefriends.org/download.html pilih sesuai dengan Sistem Operasi dan Bit yang sesuai dengan laptop atau komputer masing-masing
 namun karena kita belajar daring kita juga akan gunkan Editor daring bisa dibuka dalam link berikut https://www.w3schools.com/php/phptryit.asp?filename=tryphp_intro
