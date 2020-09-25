@@ -5,42 +5,20 @@ Ada dua jenis web, yaitu: Static dan Dynamis dimana Web Dynamis memiliki sifat d
 
 ## Perograman Server Client
 
-Setiap bahasa program akan menjalani proses penterjemahan yang disebut dengan Compiler sehingga dapat di eksekusi oleh komputer dan hasilnya dapat membantu pekerjaan manusia. Untuk membuat web akan ditemui 2 jenis bahasa program yaitu barbasis Server dan Client. Hal ini dapat dibedakan dari posisi penterjemahan program itu sendiri, bila program diterjemahkan pada Komputer Server maka berbasis Server dan bila diterjemahkan pada Komputer Client maka berbasis Client 
+Setiap bahasa program akan menjalani proses penterjemahan yang disebut dengan Compiler sehingga dapat di eksekusi oleh komputer dan hasilnya dapat membantu pekerjaan manusia. Untuk membuat web akan ditemui 2 jenis bahasa program yaitu barbasis Server dan Client. Hal ini dapat dibedakan dari posisi penterjemahan program itu sendiri, bila program diterjemahkan pada Komputer Server maka berbasis Server dan bila diterjemahkan pada Komputer Client maka berbasis Client.
+Berikut Contoh bahasa program berbasis client:
+1. Javascript
+2. HTML
+3. CSS
+Berikut Bahasa Program Berbasis Server
+1. ASP.net
+2. PHP
 
+## WEB SERVER
 
-
-You can use the [editor on GitHub](https://github.com/gunturs/Web1_1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gunturs/Web1_1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Untuk menjalankan bahasa program berbasis server dibutuhkan aplikasi pendukung yang disebut dengan Web server sehingga komputer yang bertindak sebagai server dapat memberikan layanan data kepada komputer yang bersifat Client. Aplikasi yang biasa digunakan diantaranya:
+1. Xampp
+2. PHP Thriad
+3. Apache Serve
+Dalam materi kita akan menggunakan Xammp yang aplikasinya dapat diunduh dalam link berikut https://www.apachefriends.org/download.html pilih sesuai dengan Sistem Operasi dan Bit yang sesuai dengan laptop atau komputer masing-masing
+namun karena kita belajar daring kita juga akan gunkan Editor daring bisa dibuka dalam link berikut https://www.w3schools.com/php/phptryit.asp?filename=tryphp_intro
